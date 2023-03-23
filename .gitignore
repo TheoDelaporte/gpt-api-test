@@ -10,8 +10,8 @@ node_modules/
 /coverage
 
 # production
-/frontend/build
-
+/gpt-api-test/build
+/back/.env
 # misc
 .DS_Store
 .env
